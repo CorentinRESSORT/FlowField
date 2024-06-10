@@ -8,5 +8,6 @@ canv.height = window.innerHeight;
 
 ctx.fillStyle = "black";
 ctx.fillRect(0,0,canv.width, canv.height);
+ctx.fillRect(0,0,canv.width, canv.height);
 
 
